@@ -1,2 +1,3 @@
 # ProjetosJava
-Projetos com o fim de aumentar o meu proprio conhecimento.
+
+Projetos com foco em aprendizado.
